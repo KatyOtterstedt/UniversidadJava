@@ -1,0 +1,5 @@
+test\TestConversionObjetos.class
+domain\Empleado.class
+domain\TipoEscritura.class
+domain\Gerente.class
+domain\Escritor.class
